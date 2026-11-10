@@ -1,6 +1,6 @@
 # Use GitHub Actions to label new issues
 
-The workflow [label-new-issue.yml](../.github/workflows/label-new-issue.yml) runs whenever an issue is **opened** and adds the `Triage/new` label using the `gh` CLI.
+The workflow [label-new-issue.yml](../.github/workflows/label-new-issue.yml) runs whenever an issue is **opened** and adds the `Triage` label using the `gh` CLI.
 
 ## Steps to trigger it
 
